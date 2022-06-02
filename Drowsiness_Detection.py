@@ -228,7 +228,8 @@ while True:
         if key == 27:
                 break
         if siren == 1:
-            playsound("siren.wav")
+            #playsound("siren.wav")
+            pass
             #if __name__ == "__main__":
             #    p.start()
             #    time.sleep(2)
